@@ -1,0 +1,88 @@
+                IWOUKY BOT
+           
+-------------------IWOUKY BOT-----------------------
+                                                                                                                                                                                                                                                                                                                                                                             
+$  termux-setup-storage
+
+$  apt-get update
+
+$  apt-get upgrade
+
+$  apt-get install nodejs
+
+$  apt-get install libwebp
+
+$  apt-get install ffmpeg
+
+$  apt-get install wget
+
+$  apt-get install tesseract
+
+$  pkg install git -y && pkg install nodejs -y && pkg install wget -y && pkg install libwebp -y && pkg install ffmpeg -y && pkg install pm2 -y                                                              
+
+$  cp -r /sdcard/davi /data/data/com.termux/files/home 
+
+$  cd Iwouky
+
+$  bash install.sh
+
+$  npm start
+
+-------------------IWOUKY BOT-----------------------
+
+    Use esses quando vc for editar ou ativar o bot 
+
+$ cd /sdcard
+
+$ cp -r Iwouky /$HOME
+
+$ cd
+
+$ ls
+
+$ cd Iwouky
+
+$node index
+
+-------------------IWOUKY BOT-----------------------
+
+      Pro bot não cair usa esses👇🏻
+
+$ npm i -g pm2
+
+$ pm2 start index.js
+
+$ pm2 monit 
+                                                                                                                                                                                                                                                                                                                                                                  
+-------------------IWOUKY BOT-----------------------
+
+PRA MAIS INFORMAÇÃO CHAME NO ZAP +55 33 988728757 
+PFV DEIXA PELO MENOS UM ESPAÇO NO BOT COM MEU NOME KKKK ZUERA KKKKKKK
+DEIXA PELO MENOS O LIKE NO VIDEO LÁ NA MORAL 
+MEU OUTRO CANAL FOI ROUBADO JUNTO CON MINHA CONTA DO FF GASTEI MUITO NELA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
